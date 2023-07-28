@@ -4,7 +4,7 @@
 This repository contains the MATLAB project which computes depth map from a single image and transforms into point cloud.
 
 
-![](figures/Improvement_vs_FPS.png)
+![](figures/gazebo_result_all.png)
 
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 
