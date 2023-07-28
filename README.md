@@ -6,7 +6,6 @@ This repository contains the MATLAB project which computes depth map from a sing
 
 ![](figures/gazebo_result_all.png)
 
-<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 
 ## Installation ##
 
@@ -24,13 +23,10 @@ Dataset not included. Download [NYU v2 dataset](https://cs.nyu.edu/~silberman/da
 MATLAB
 * Deep Learning Toolbox
 * Computer Vision Toolbox
-* Statics and Machine Learning Toolbox
-* Lidar Toolbox
 
 Simulink
 * Robotics System Toolbox
 * Automated Driving Toolbox
-* ROS Toolbox
 * PackageGazeboPlugin (from Gazebo Simulation Environment Requirements and Limitations )
 
 Device
